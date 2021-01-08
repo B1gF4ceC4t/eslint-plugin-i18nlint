@@ -24,3 +24,7 @@ yarn-error.log*
 /package-lock.json
 /.project
 .history
+
+.coveralls.yml
+.nyc_output
+coverage

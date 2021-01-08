@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/B1gF4ceC4t/eslint-plugin-i18nlint.svg?branch=main)](https://travis-ci.org/B1gF4ceC4t/eslint-plugin-i18nlint)
+[![Coverage Status](https://coveralls.io/repos/github/B1gF4ceC4t/eslint-plugin-i18nlint/badge.svg?branch=main)](https://coveralls.io/github/B1gF4ceC4t/eslint-plugin-i18nlint?branch=main)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+
 # eslint-plugin-i18nlint
 
 A tool for helping you find and manage missing and unused translations
