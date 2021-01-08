@@ -44,5 +44,10 @@
       "prepare-commit-msg": "exec < /dev/tty && git cz --hook || true",
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
+  },
+  "bugs": "https://github.com/B1gF4ceC4t/eslint-plugin-i18nlint/issues",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/B1gF4ceC4t/eslint-plugin-i18nlint"
   }
 }
