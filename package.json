@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-i18nlint",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A tool for helping you find and manage missing and unused translations",
   "keywords": [
     "eslint",
@@ -43,6 +43,6 @@
     "hooks": {
       "prepare-commit-msg": "exec < /dev/tty && git cz --hook || true",
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
-    }  
+    }
   }
 }
