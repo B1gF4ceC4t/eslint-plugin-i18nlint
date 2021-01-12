@@ -46,7 +46,7 @@
   },
   "bugs": "https://github.com/B1gF4ceC4t/eslint-plugin-i18nlint/issues",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/B1gF4ceC4t/eslint-plugin-i18nlint"
+    "type": "git",
+    "url": "https://github.com/B1gF4ceC4t/eslint-plugin-i18nlint"
   }
 }
