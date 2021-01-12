@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-i18nlint",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A tool for helping you find and manage missing and unused translations",
   "keywords": [
     "eslint",
